@@ -36,11 +36,9 @@ Documenation and Instructions
 Copyright and License
 ---
 
-Solutions, Templates, Actions and other content available on the Automic Marketplace subject to the Automic [Developers Distribution License] (https://marketplace.automic.com/developers-distribution-license) as well as the Automic Community [Terms of Service] (https://marketplace.automic.com/community-terms-of-service).
-Automic does not support, maintain or warrant any content submitted by the Automic Community.
-
+Broadcom does not support, maintain or warrant Solutions, Templates, Actions and any other content published on the Community and is subject to Broadcom Community [Terms and Conditions](https://community.broadcom.com/termsandconditions)
 
 
 Questions or Need Help? 
 ---
-Any questions or comments? Converse with your fellow Users in the [Automic Community] (https://community.automic.com).
+Join the [Automic Community Integrations](https://community.broadcom.com/communities/community-home?CommunityKey=83e49dd4-b93e-464a-a343-2bb1e51c13ec) to discuss this integration.
